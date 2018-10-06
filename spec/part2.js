@@ -38,7 +38,6 @@
          * You can avoid an entire class of bugs by writing functions
          * that don't mutate their inputs!
          */
-
         expect(input).to.eql([1,2,3,4,5])
       });
 
